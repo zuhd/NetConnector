@@ -1,13 +1,13 @@
 # NetConnector
-1，TCP and UDP Support with select module
-2，windows/linux/android support
-3，thread safe
+#### 1，TCP and UDP Support with select module
+#### 2，windows/linux/android support
+#### 3，thread safe
 
 # 客户端连接器
-1，通用的客户端连接器，支持TCP & UDP，select模型
-2，支持windows/linux/android
-3，线程安全
-4，作者微信：zuuuhd
+#### 1，通用的客户端连接器，支持TCP & UDP，select模型
+#### 2，支持windows/linux/android
+#### 3，线程安全
+#### 4，有问题，欢迎交流，微信：zuuuhd
 
 # TCP Sample
 ```C++
